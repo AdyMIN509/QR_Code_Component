@@ -9,15 +9,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### Screenshot
 ![alt text](image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/AdyMIN509/QR_Code_Component.git)
+- Live Site URL: [qr-code-component.com](https://adymin509.github.io/QR_Code_Component/)
 
 ### Built with
 
@@ -25,9 +23,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-## Author
-
-- Website - [Christian Mbolanantenaina](https://www.your-site.com)
