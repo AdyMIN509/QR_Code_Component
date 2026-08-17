@@ -62,4 +62,7 @@ body {
 		top: 156.5px;
 		left: 27.5px;
 	}
+	.attribution {
+		bottom: 5px;
+	}
 }
